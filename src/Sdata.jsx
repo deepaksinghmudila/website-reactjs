@@ -1,5 +1,3 @@
-import React from 'react';
-
 const Sdata = [
   {
     imgsrc: "https://picsum.photos/100/100",
